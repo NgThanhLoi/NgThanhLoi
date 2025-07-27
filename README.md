@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Loi Nguyen
 
-<!--
-**NgThanhLoi/NgThanhLoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | ⚙️ .NET Enthusiast | 🔍 Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🎯 I'm a backend developer with strong experience in **C#**, **.NET Framework / .NET Core**, and **SQL Server**.
+- 🚀 I enjoy optimizing business logic, working with legacy systems, and building scalable solutions.
+- 🛠️ I'm also familiar with **JavaScript**, **jQuery**, and occasionally diving into **frontend** when needed.
+- 📦 Passionate about clean architecture, performance tuning, and automation.
+
+---
+
+## 🔧 Tech Stack
+
+- 💡 Languages: `C#`, `T-SQL`, `JavaScript`, `HTML/CSS`
+- 🏗️ Frameworks: `.NET Framework`, `.NET Core`, `Entity Framework`, `WinForms`
+- 💾 Databases: `SQL Server`, `SQLite`
+- 🛠️ Tools: `Visual Studio`, `Git`, `Postman`, `SSMS`, `LINQPad`
+- 🧪 Others: `REST APIs`, `Background Services`, `BulkInsert`, `Windows Services`
+
+---
+
+## 📬 Let's connect
+- 📧 Email: loint2101@gmail.com
+- 💬 Open to freelance and collaboration on backend-focused projects.
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
